@@ -27,7 +27,7 @@ export default function Resume(){
       
     <h3 className="text-2xl mb-2 font-bold">Education</h3>
 
-    <h6 className="font-bold">Bachelor's Degree in Computer Science</h6>
+    <h6 className="font-bold">Bachelor of Computer Science</h6>
     University of Ottawa - Ottawa, ON
     September 2022 to April 2023 
     9.2/10 CGPA / A GPA
