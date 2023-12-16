@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+    margin: auto;
+    display: table;
+    background:linear-gradient(to right,#2f185e,#45357f,#2f185e);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "helvetica neue";
+}
+
+body {
+    display: table-cell;
+       align: middle; 
+    width: 8.5in;
+    /*padding-left: 10em;
+    padding-right: 10em;*/
+    margin-left: 2rem auto;
+    margin-right: 2rem auto;
+    color: white;
+}
+
+h1 {
+    text-align:center;
+}
+
+p {
+    color: white;
+
+}
+
+.title {
+    font-size: 76px;
+}
+
+nav {
+    padding-top: 10px;
+}
+
+a:link {
+    color:	white;
+    text-decoration:none;
+}
+a:visited {
+    color:	white;
+    text-decoration:none;
+}
+a:hover {
+    color: white;
+    text-decoration:none;
+}
