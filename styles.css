@@ -34,6 +34,8 @@ p {
 
 nav {
     padding-top: 10px;
+    margin-right: 15px;
+    display: inline-block;
 }
 
 a:link {
@@ -46,5 +48,5 @@ a:visited {
 }
 a:hover {
     color: white;
-    text-decoration:none;
+    text-decoration:underline;
 }
